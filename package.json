@@ -1,0 +1,15 @@
+{
+    "name": "blockchainapi",
+    "version": "1.0.0",
+    "description": "create a blockchain REST API for developer who want to create their wallet without hussling about create blockchain service",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "amit",
+    "license": "ISC",
+    "dependencies": {
+        "crypto-js": "^3.1.9-1",
+        "express": "^4.17.1"
+    }
+}
